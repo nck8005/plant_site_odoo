@@ -1,2 +1,2 @@
 # plant_site_odoo
-plat purchasing websit
+plat purchasing website
